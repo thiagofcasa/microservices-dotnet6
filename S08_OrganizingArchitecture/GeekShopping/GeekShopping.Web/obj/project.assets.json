@@ -1679,11 +1679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1700,8 +1700,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
-              "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj"
+            "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+              "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj"
             }
           }
         }

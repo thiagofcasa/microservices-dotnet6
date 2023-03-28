@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingFirstMicroservicesArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\Thiago\\Documents\\CURSOS E ESTUDOS\\DEVELOPER\\CURSO_MICROSERVICES\\Code\\microservices-dotnet6\\S08_OrganizingArchitecture\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
