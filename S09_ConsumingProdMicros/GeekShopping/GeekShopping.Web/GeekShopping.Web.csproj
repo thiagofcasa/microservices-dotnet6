@@ -6,8 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <ProjectReference Include="..\GeekShopping.ProductAPI\GeekShopping.ProductAPI.csproj" />
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
