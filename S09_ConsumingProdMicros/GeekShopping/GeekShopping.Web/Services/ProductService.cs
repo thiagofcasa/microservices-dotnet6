@@ -34,6 +34,14 @@ namespace GeekShopping.Web.Services
             else
                 throw new Exception("Something went wrong when calling API");
         }
+        
+        public async Task<ProductModel> UpdateProduct(ProductModel model)
+        {
+            var response = await _client.PutAsJson(BasePath, model);
+            if (response.IsSuccessStatusCode)
+                return await response.ReadContentAs<ProductModel>();
+            else throw new Exception("Something went wrong when calling API");
+        }
 
         public async Task<bool> DeleteProductById(long id)
         {
@@ -44,9 +52,5 @@ namespace GeekShopping.Web.Services
                 throw new Exception("Something went wrong when calling API");
         }
 
-        public Task<ProductModel> UpdateProduct(ProductModel model)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
