@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GeekShopping.IdentityServer
+build_property.RootNamespace = GeekShopping.IdentityServer
+build_property.ProjectDir = C:\DEV\CursoMicroServicesCodes\microservices-dotnet6\S09_ConsumingProdMicros\GeekShopping\GeekShopping.IdentityServer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\DEV\CursoMicroServicesCodes\microservices-dotnet6\S09_ConsumingProdMicros\GeekShopping\GeekShopping.IdentityServer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Account/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Account/Logout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Account/Logout/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXRcTG9nZ2VkT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Ciba/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Ciba/Consent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxDb25zZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Ciba/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Ciba/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Consent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Consent/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Device/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Device/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Device/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Diagnostics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/ExternalLogin/Callback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxMb2dpblxDYWxsYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/ExternalLogin/Challenge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxMb2dpblxDaGFsbGVuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Grants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Home/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Redirect/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/ServerSideSessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmVyU2lkZVNlc3Npb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/Shared/_ValidationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DEV/CursoMicroServicesCodes/microservices-dotnet6/S09_ConsumingProdMicros/GeekShopping/GeekShopping.IdentityServer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
