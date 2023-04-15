@@ -2713,11 +2713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S09_ConsumingProdMicros\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S10_DesenvFrontHome\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S09_ConsumingProdMicros\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S10_DesenvFrontHome\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S09_ConsumingProdMicros\\GeekShopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "C:\\DEV\\CursoMicroServicesCodes\\microservices-dotnet6\\S10_DesenvFrontHome\\GeekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,6 +13,22 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
+var connection = builder.Configuration["MySQLConnection:MySQLConnection"];
+
+builder.Services.AddDbContext<MySQLContext>(options => options.
+    UseMySql(connection,
+            new MySqlServerVersion(
+                new Version(8, 0, 32))));
+
+IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
+builder.Services.AddSingleton(mapper);
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+
+//injeta o ProductRepository
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+
 builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", options =>
 {
     options.Authority = "https://localhost:4435";
@@ -32,9 +48,9 @@ builder.Services.AddAuthorization(options =>
 });
 
 
-
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "GeekShopping.ProductAPI", Version = "v1" });
@@ -67,19 +83,7 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-var connection = builder.Configuration["MySQLConnection:MySQLConnection"];
 
-builder.Services.AddDbContext<MySQLContext>(options => options.
-    UseMySql(connection,
-            new MySqlServerVersion(
-                new Version(8, 0, 32))));
-
-IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
-builder.Services.AddSingleton(mapper);
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
-//injeta o ProductRepository
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 
